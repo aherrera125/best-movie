@@ -24,7 +24,6 @@
 }
 
 .resumen-saga h2 {
-  color: #d32f2f;
   margin-bottom: 10px;
 }
 
@@ -68,5 +67,13 @@
 }
 
 .center-resume {
+  flex: 3;
+}
+
+.video {
+  width: 450px;
+}
+
+.video-flex {
   flex: 3;
 }
