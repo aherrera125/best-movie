@@ -61,3 +61,12 @@
   align-items: stretch; /* asegura igual altura */
   margin: 20px;
 }
+
+.personaje-img {
+  flex: 1;
+  text-align: center;
+}
+
+.personaje-resume {
+  flex: 3;
+}
